@@ -1,6 +1,6 @@
 # PRODIGY_WD_02
 
-# Stopwatch
+# Stopwatch Web Application
 
 A simple stopwatch implemented using HTML, CSS, and JavaScript.
 
